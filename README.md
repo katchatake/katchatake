@@ -1,8 +1,7 @@
 ### Que tal 👋 !!
 
-> Soy Web developer con más de 3 años de experiencia en el desarrollo de paginas y sistemas en el entorno web dentro del sector
-privado, trabajando con el stack LAMP, usando javascript para la parte FRONTEND y PHP en el BACKEND, usando como metodología
-SCRUM
+> Soy Web developer trabajando con el stack LAMP, javascript para FRONTEND y PHP en el BACKEND
+
 
 <!--
 **katchatake/katchatake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
