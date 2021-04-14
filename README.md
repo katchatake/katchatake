@@ -1,12 +1,8 @@
 ### Que tal, soy Francisco 👋
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Soy Web developer con más de 3 años de experiencia en el desarrollo de paginas y sistemas en el entorno web dentro del sector
+privado, trabajando con el stack LAMP, usando javascript para la parte FRONTEND y PHP en el BACKEND, usando como metodología
+SCRUM
 
 <!--
 **katchatake/katchatake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
