@@ -1,6 +1,6 @@
 ### Que tal 👋 !!
 
-> Soy Web developer trabajando con el stack LAMP, javascript para FRONTEND y PHP en el BACKEND
+> Soy Web developer trabajando con el stack LAMP, JAVASCRIPT para FRONTEND y PHP en el BACKEND
 
 
 <!--
