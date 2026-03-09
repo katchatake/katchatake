@@ -2,7 +2,7 @@
 
 ¡Hola! Soy **Francisco Javier Santiago Muñoz**. El arte de crear software es mi motor; transformar líneas de código en herramientas que optimizan la vida de usuarios y colegas es mi mayor satisfacción.
 
-Con **8 años de trayectoria profesional**, me especializo en diseñar sistemas críticos donde la eficiencia y la arquitectura son el núcleo del desarrollo. [cite_start]Desde mi incursión en el mundo laboral en 2017, he evolucionado de escribir sintaxis a orquestar ecosistemas digitales complejos[cite: 14, 39].
+Con **8 años de trayectoria profesional**, me especializo en diseñar sistemas críticos donde la eficiencia y la arquitectura son el núcleo del desarrollo. [cite_start]Desde mi incursión en el mundo laboral en 2017, he evolucionado de escribir sintaxis a orquestar ecosistemas digitales complejos.
 
 ---
 
@@ -19,8 +19,8 @@ Mi entorno de desarrollo principal es un **Mac M1**, optimizado para la máxima 
 
 ### 🔭 Proyectos de Alto Impacto
 
-* [cite_start]**Hospitality Tech (KAO Hoteles):** Rediseño de servicios hacia arquitecturas orientadas a eventos e integración de servicios de AWS[cite: 34, 35].
-* [cite_start]**Industrial Logistics (Garen):** Creación de sistemas de fletes a medida y automatización de procesos mediante generación de códigos de barras[cite: 42, 44].
+* **Hospitality Tech (KAO Hoteles):** Rediseño de servicios hacia arquitecturas orientadas a eventos e integración de servicios de AWS.
+* **Industrial Logistics (Garen):** Creación de sistemas de fletes a medida y automatización de procesos mediante generación de códigos de barras.
 * **Fintech & POS (Personal):** Desarrollo de trackers financieros para el régimen fiscal **RESICO** y sistemas de punto de venta (POS) robustos con **Electron y Vue.js**.
 * **AI Integration:** Implementación de asistentes inteligentes utilizando la **Gemini API** para optimización de tareas.
 
