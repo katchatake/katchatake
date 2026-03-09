@@ -35,9 +35,3 @@ Actualmente profundizo en la excelencia técnica y nuevas fronteras tecnológica
 
 ---
 
-### 💬 Contacto & Redes
-* **GitHub:** [github.com/katchatake](https://github.com/katchatake)
-* **Email:** Fjsantiagomunoz@gmail.com
-* **Ubicación:** Remote | CDMX
-
----
